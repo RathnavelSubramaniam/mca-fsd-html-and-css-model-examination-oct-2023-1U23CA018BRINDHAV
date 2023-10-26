@@ -1,0 +1,17 @@
+#auds{
+  width: 500px;
+padding: 20px 250px;
+align-items: center;
+  
+}
+
+#vids{
+    width: 350px;
+  padding: 50px 200px;
+    text-align: center;
+  }
+
+  #tube{
+  padding: 50px 20px;
+    text-align: center;
+  }
